@@ -1,3 +1,4 @@
+<!-- This bike-rentals.php page was made by Isaac Ferrer. -->
 <?php
 require 'db.php'; 
 require 'functions.php';

@@ -1,3 +1,4 @@
+<!-- This functions.php page was made by Isaac Ferrer. -->
 <?php
 function sqlAllCustomers(): string
 {

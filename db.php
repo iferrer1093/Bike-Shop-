@@ -1,3 +1,4 @@
+<!-- This db.php page was made by Isaac Ferrer. -->
 <?php
 
         $DB_HOST = 'localhost';
