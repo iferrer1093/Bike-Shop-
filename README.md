@@ -1,0 +1,1 @@
+bike-rentals.php is a PHP page that uses data from the bikes SQL database inside of localhost/phpmyadmin that shows and manipulates the data to show things like how many available bikes there are and customers as well as changing the availability status of a bike.
